@@ -1,4 +1,4 @@
-# Single Responsibility Principle
+# Single Responsibility Principle (принцип інверсії залежностей): класи повинні залежати від абстракцій, а не від конкретних реалізацій, та модулі високого рівня не повинні залежати від модулів низького рівня.
 
 class FormatData:
 

@@ -1,4 +1,4 @@
-# Interface Agregation Principle
+# Interface Agregation Principle (принцип відкритості/закритості): програмні компоненти (класи, модулі, функції) повинні бути відкритими для розширення, але закритими для змін.
 
 class Creature:
 
